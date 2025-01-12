@@ -8,7 +8,7 @@ This HR Management system is designed to manage various HR functions efficiently
 ## Live Demo
 
 - **Frontend deployed with Netlify**: [https://hrmsphere.netlify.app/](https://hrmsphere.netlify.app/)  
-- **Backend deployed with Render.com**: [https://sowmi-proj.onrender.com/](https://sowmi-proj.onrender.com/)
+- **Backend deployed with Render.com**: [https://hr-management-system-zl57.onrender.com/](https://hr-management-system-zl57.onrender.com/)
 ---
 
 ## Features
