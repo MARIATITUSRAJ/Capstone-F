@@ -7,8 +7,8 @@ This HR Management system is designed to manage various HR functions efficiently
 
 ## Live Demo
 
-- **Frontend deployed with Netlify**: [https://hrmanagementsystemversion.netlify.app/](https://hrmanagementsystemversion.netlify.app//)  
-- **Backend deployed with Render.com**: [https://hr-management-system-zl57.onrender.com/](https://hr-management-system-zl57.onrender.com/)
+- **Frontend deployed with Netlify**: [https://hrmanagementsystemversion.netlify.app/]  
+- **Backend deployed with Render.com**: [https://hr-management-system-zl57.onrender.com/]
 
 
 ## Features
@@ -132,12 +132,12 @@ This HR Management system is designed to manage various HR functions efficiently
 
 Use the following demo credentials to explore the application:  
   Admin side
-- **Email**:  user87@gmail.com, test03@gmail.com
-- **Password**:098765, test03
+- **Email**:  user78@gmail.com, brain@gmail.com
+- **Password**:123456, Brain@1990
 
   Employee side
-  - **Email**: user78@gmail.com, test30@gmail.com
-- **Password**: 123456, test30
+  - **Email**: berwin@gmail.com, test30@gmail.com
+- **Password**: Ber@123, test30
   
 
 
